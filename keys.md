@@ -1,0 +1,2 @@
+AWSAccessKeyId=AKIAUEPIY3ADADASD3XR
+AWSSecretKey=cFuo/Zp9KHqweqweqweUsWiRFpMpcwqeqweqwe
